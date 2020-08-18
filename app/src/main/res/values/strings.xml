@@ -1,3 +1,50 @@
 <resources>
     <string name="app_name">Fantasy Jitsu</string>
+
+    <string name="facebook_app_id">340135240358553</string>
+    <string name="fb_login_protocol_scheme">fb340135240358553</string>
+
+
+    <string name="splash_screen">Splash Screen</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="invite_friend">Invited by friend? \nEnter Code</string>
+    <string name="already_user">Already a user? \nLog In</string>
+    <string name="lets_play">LET\'S PLAY</string>
+    <string name="or">or</string>
+    <string name="enter_mobile">Email or mobile no</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+    <string name="next">Next</string>
+    <string name="not_member">Not a member?</string>
+    <string name="mobile_number">Mobile no.</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="terms_of_service">"By registering, I agree to Fantasy Jitsu\'s"</string>
+    <string name="terms_of_service2">T&amp;Cs</string>
+    <string name="invite_code">Enter Invite Code</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="my_matches">My Matches</string>
+    <string name="profile">Profile</string>
+    <string name="more">More</string>
+    <string name="invalid_user_name">Invalid username</string>
+    <string name="user_name_empty">UserName can\'t be empty</string>
+    <string name="password_empty">Password can\'t be empty</string>
+    <string name="invalid_password">Invalid password</string>
+    <string name="please_check_your_internet_connection">Please check your internet connection</string>
+    <string name="invite_friends">Invite Friends, Get Rs.100</string>
+    <string name="contest_invite_code">Contest Invite Code</string>
+    <string name="fantasy_points">Fantasy Points System</string>
+    <string name="how_to_play">How to Play</string>
+    <string name="about_us">About Us</string>
+    <string name="legality">Legality</string>
+    <string name="terms_conditions">Terms and Conditions</string>
+    <string name="loading">Loading</string>
+    <string name="enter_otp">Enter the OTP you received</string>
+    <string name="otp_text">"you should receive OTP in"</string>
+    <string name="otp_sent">"OTP sent to"</string>
+    <string name="cricket">Cricket</string>
+
 </resources>
