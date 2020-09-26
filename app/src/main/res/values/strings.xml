@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Fantasy Jitsu</string>
+    <string name="app_name">Fantasy Jutsu</string>
 
     <string name="facebook_app_id">340135240358553</string>
     <string name="fb_login_protocol_scheme">fb340135240358553</string>
@@ -46,5 +46,8 @@
     <string name="otp_text">"you should receive OTP in"</string>
     <string name="otp_sent">"OTP sent to"</string>
     <string name="cricket">Cricket</string>
+    <string name="title_activity_base">BaseActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="previous">Previous</string>
 
 </resources>
